@@ -14,14 +14,23 @@ Observations
 Necessary calculations were given to create a high-level snapshot of the district's key metrics in a DataFrame.
 
 Include the following:
+
 Total number of unique schools
+
 Total students
+
 Total budget
+
 Average math score
+
 Average reading score
+
 % passing math (the percentage of students who passed math)
+
 % passing reading (the percentage of students who passed reading)
+
 % overall passing (the percentage of students who passed math AND reading)
+
 
 The output for the following were a total of 15 schools and 39170 students.The total students average math score is 78.98 and the reading score is 81.87 which is higher than math score.The passing percentage of math is 74.98% and the reading percentage is 85.80% which is higher again.The overall passing percentage is 65.17%. These findings conclude that the students score more in reading than math.
 
