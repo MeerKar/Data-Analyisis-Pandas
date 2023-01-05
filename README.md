@@ -1,6 +1,6 @@
-# Data-Analyisis-Pandas
+# Background
 
-Background
+
 As a Data Analyst , helping the school board and mayor make strategic decisions regarding future school budgets and priorities.As a first task, is to analyze the district-wide standardized test results. With the access of  every student's math and reading scores, as well as various information on the schools they attend the task is to aggregate the data to showcase obvious trends in school performance.In this project used datasets in csv format called school_complete.csv file which includesStudent ID, School_name,type,size,budget and the other datast students_complete.csv file which includes Student ID,student_name,gender,grade,school_name, reading_score and mathe_score.For these analysis both datasetsimported, merged and the aggregate data displayed into python pandas dataframe.this project is conducted in Jupyter Noebook and the link is as follows.
 (http://localhost:8888/notebooks/Desktop/Panda/Data-Analyisis-Pandas/PyCitySchools/Starter_Code/PyCitySchools/PyCitySchools_starter.ipynb)
 	
