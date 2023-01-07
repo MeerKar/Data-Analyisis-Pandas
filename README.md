@@ -7,11 +7,11 @@ As a Data Analyst , helping the school board and mayor make strategic decisions 
 <img width="816" alt="image" src="https://user-images.githubusercontent.com/116701851/210693028-2d08aa3b-6b44-4ee7-b359-346b087ccae3.png">
 
 
-Observations
+# Observations
 
-1. District Summary
+# 1. District Summary
 
-Necessary calculations were given to create a high-level snapshot of the district's key metrics in a DataFrame.
+  Necessary calculations were given to create a high-level snapshot of the district's key metrics in a DataFrame.
 
 Include the following:
 
@@ -38,9 +38,9 @@ The output for the following were a total of 15 schools and 39170 students.The t
 <img width="789" alt="image" src="https://user-images.githubusercontent.com/116701851/210701255-23067e2c-ca14-4049-9480-a6df35ccd8d3.png">
 
 
-2.School Summary
+# 2.School Summary
 
-Performed the necessary calculations and then created a DataFrame that summarizes key metrics about each school.
+  Performed the necessary calculations and then created a DataFrame that summarizes key metrics about each school.
 Include the following:
 
 School name
@@ -69,30 +69,56 @@ The results showed that 7 0f 15 schools are district level and 8 are at the char
 
 
 
-3.Highest-Performing Schools (by % Overall Passing)
- A table is created based on percentage overall passing in descending order to find the highest performing school  .The results shown as below
+# 3.Highest-Performing Schools (by % Overall Passing)
+    A table is created based on percentage overall passing in descending order to find the highest performing school  .The results shown as below
 
 <img width="995" alt="image" src="https://user-images.githubusercontent.com/116701851/211127373-6d3cd6c2-4b9f-4106-86c0-34814b2168c4.png">
 
-4. Bottom Performing Schools (By % Overall Passing)
+# 4. Bottom Performing Schools (By % Overall Passing)
 
-Similar metrics are given to calculate the bottom performing schools based on percentage overall passing in ascending order.
+    Similar metrics are given to calculate the bottom performing schools based on percentage overall passing in ascending order.
 The results shown as below
 
 <img width="801" alt="image" src="https://user-images.githubusercontent.com/116701851/211127799-f0609916-72d4-444e-a39e-2f57e2c99ff1.png">
 
-5. Math Scores by Grade
+# 5. Math Scores by Grade
 
-In this dataframe is created to calculate average math scores based on grades. In this we have calculated results from 9th , 10th ,11th and 12th graders.
+    In this dataframe is created to calculate average math scores based on grades. In this we have calculated results from 9th , 10th ,11th and 12th graders.
 
 <img width="478" alt="image" src="https://user-images.githubusercontent.com/116701851/211128047-6cc41970-e5e1-464a-b6c9-6822317d621e.png">
 
-6.Reading Scores by Grade
+# 6.Reading Scores by Grade
 
-For this dataframe is created for 9th,10th,11th and 12th graders for reading scores.
+  For this a dataframe is created for 9th,10th,11th and 12th graders for reading scores.
 
 
 <img width="454" alt="image" src="https://user-images.githubusercontent.com/116701851/211128283-000b357b-2d00-458c-bcfb-60114b7eb3fc.png">
+
+
+# 7.Scores by School Spending
+
+ Created a table that breaks down school performance based on average spending ranges (per student).
+Also created four bins with reasonable cutoff values to group school spending. The table output shows below.
+
+<img width="777" alt="image" src="https://user-images.githubusercontent.com/116701851/211130262-3e16c126-680b-4e83-b465-6f5d61f2829e.png">
+
+
+# 8.Scores by School Size
+
+Similarly a table and bins were created to cutoff values to group school size and performance based on school size.
+
+<img width="811" alt="image" src="https://user-images.githubusercontent.com/116701851/211130876-abe54e37-7204-4204-8645-
+868fbfccebec.png">
+
+# 9.Scores by School Type
+
+A new DataFrame was created to check the  school performance based on the "School Type".
+
+<img width="725" alt="image" src="https://user-images.githubusercontent.com/116701851/211130961-3ba0b138-fbd9-410d-bb8e-cb9617fb081d.png">
+
+
+
+
 
 
 
