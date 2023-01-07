@@ -40,7 +40,7 @@ The output for the following were a total of 15 schools and 39170 students.The t
 
 2.School Summary
 
-Perform the necessary calculations and then create a DataFrame that summarizes key metrics about each school.
+Performed the necessary calculations and then created a DataFrame that summarizes key metrics about each school.
 Include the following:
 
 School name
@@ -63,8 +63,16 @@ Average reading score
 
 % overall passing (the percentage of students who passed math AND reading)
 
+The results showed that 7 0f 15 schools are district level and 8 are at the charter level.The number of students ranged from 427 to 4976 students.These findings showed that district level have more students than charter level.
+
+<img width="1009" alt="image" src="https://user-images.githubusercontent.com/116701851/211126841-f8f8c60b-c562-456f-a279-8cc7f3b28e61.png">
 
 
 
+Highest-Performing Schools (by % Overall Passing)
+
+in this a table is created based on percentage overall passing in descending order which includes the above metrics .The results shows as below
+
+<img width="995" alt="image" src="https://user-images.githubusercontent.com/116701851/211127373-6d3cd6c2-4b9f-4106-86c0-34814b2168c4.png">
 
 
