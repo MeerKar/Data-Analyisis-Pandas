@@ -107,8 +107,7 @@ Also created four bins with reasonable cutoff values to group school spending. T
 
 Similarly a table and bins were created to cutoff values to group school size and performance based on school size.
 
-<img width="811" alt="image" src="https://user-images.githubusercontent.com/116701851/211130876-abe54e37-7204-4204-8645-
-868fbfccebec.png">
+<img width="782" alt="image" src="https://user-images.githubusercontent.com/116701851/211131007-9a3e7ab8-faef-4fa5-934b-0622790faa73.png">
 
 # 9.Scores by School Type
 
