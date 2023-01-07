@@ -69,10 +69,30 @@ The results showed that 7 0f 15 schools are district level and 8 are at the char
 
 
 
-Highest-Performing Schools (by % Overall Passing)
-
-in this a table is created based on percentage overall passing in descending order which includes the above metrics .The results shows as below
+3.Highest-Performing Schools (by % Overall Passing)
+ A table is created based on percentage overall passing in descending order to find the highest performing school  .The results shown as below
 
 <img width="995" alt="image" src="https://user-images.githubusercontent.com/116701851/211127373-6d3cd6c2-4b9f-4106-86c0-34814b2168c4.png">
+
+4. Bottom Performing Schools (By % Overall Passing)
+
+Similar metrics are given to calculate the bottom performing schools based on percentage overall passing in ascending order.
+The results shown as below
+
+<img width="801" alt="image" src="https://user-images.githubusercontent.com/116701851/211127799-f0609916-72d4-444e-a39e-2f57e2c99ff1.png">
+
+5. Math Scores by Grade
+
+In this dataframe is created to calculate average math scores based on grades. In this we have calculated results from 9th , 10th ,11th and 12th graders.
+
+<img width="478" alt="image" src="https://user-images.githubusercontent.com/116701851/211128047-6cc41970-e5e1-464a-b6c9-6822317d621e.png">
+
+6.Reading Scores by Grade
+
+For this dataframe is created for 9th,10th,11th and 12th graders for reading scores.
+
+
+<img width="454" alt="image" src="https://user-images.githubusercontent.com/116701851/211128283-000b357b-2d00-458c-bcfb-60114b7eb3fc.png">
+
 
 
